@@ -1,0 +1,32 @@
+{
+  "name": "egg-donor-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "5.0.0-alpha.125",
+    "@mui/material": "^5.11.16",
+    "@mui/utils": "^5.11.13",
+    "@mui/x-date-pickers": "^6.0.4",
+    "dayjs": "^1.11.7",
+    "formik": "^2.2.9",
+    "i18next": "^22.4.14",
+    "next": "13.3.0",
+    "next-auth": "^4.22.1",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^12.2.0",
+    "swr": "^2.1.2",
+    "yup": "^1.0.2"
+  }
+}

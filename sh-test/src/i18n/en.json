@@ -1,0 +1,30 @@
+{
+  "login": {
+    "login": "Login",
+    "register": "Register",
+    "user": "user Login",
+    "admin": "admin Login",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password"
+  },
+  "filter": {
+    "title": "Introduction to Filter Criteria",
+    "ethnicity": {
+      "Ethnicity": "Ethnicity",
+      "EthnicityList": {
+        "African": "African American or African",
+        "Native": "Native American or Alaska Native",
+        "Asian": "Asian",
+        "Caucasian": "Caucasian",
+        "Islander": "Native Hawaiian or Pacific Islander",
+        "Hispanic": "Hispanic",
+        "Middle": "Middle Eastern/Arabic",
+        "Mixed": "Mixed Ancestry"
+      }
+    }
+  },
+  "recommended_reading": "Recommended Reading",
+  "tags": "Tags",
+  "classify": "Article Classification"
+}

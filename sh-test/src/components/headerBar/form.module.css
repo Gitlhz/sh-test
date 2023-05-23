@@ -1,0 +1,60 @@
+
+.header {
+  position: fixed;
+  width: 100%;
+  min-height: 60px;
+  z-index: 99;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  background: linear-gradient(to right, #41D2BF 0%, #6dd7ca 100%);
+  box-shadow: 0 10px 10px -7px #eee;
+
+}
+
+.logo {
+  width: 250px;
+  height: 30px;
+  cursor:pointer;
+}
+
+
+.btn {
+  border-color: #fff;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.btn:hover {
+  border-color: #333;
+  color: #333;
+}
+
+@media (max-width: 900px) {
+  .logoWrap{
+    /*background-color: #000;*/
+    width: 100%;
+    text-align: center;
+  }
+  .logo {
+    width: 125px;
+    height: 15px;
+  }
+
+  .btn {
+    font-size: 10px;
+    padding: 0;
+    width: 20px;
+  }
+}
+
+.btnLabel{
+
+  text-decoration:underline;
+}
+.btnLabel:hover{
+  color: #333333;
+  text-decoration-color: #333333;
+}

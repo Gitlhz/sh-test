@@ -1,0 +1,16 @@
+.footer {
+  text-align: center;
+  margin: 25px 0;
+}
+
+.footer span:nth-child(1) {
+  font-size: 14px;
+  opacity: .7;
+}
+
+.footer span:nth-child(2) {
+  color: #41D2BF;
+}
+
+.footer span:nth-child(3) {
+}
